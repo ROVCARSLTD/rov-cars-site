@@ -1,0 +1,21 @@
+!DOCTYPE html
+html lang=en
+head
+  meta charset=UTF-8 
+  meta name=viewport content=width=device-width, initial-scale=1.0
+  titleROV CARS LTD – Used Cars for Saletitle
+  link rel=stylesheet href=styles.css 
+
+  !-- Lightbox2 CSS & JS --
+  link href=httpscdnjs.cloudflare.comajaxlibslightbox22.11.3csslightbox.min.css rel=stylesheet 
+  script src=httpscdnjs.cloudflare.comajaxlibslightbox22.11.3jslightbox.min.jsscript
+head
+body
+  header
+    h1ROV CARS LTDh1
+    pQuality pre‑owned vehicles at great pricesp
+    pstrongAddressstrong Unit 23 Crow Lane, Romford, RM7 0GWp
+    pstrongBusiness Hoursstrong 8 AM – 6 PM (Out‑of‑hours viewings available on request)p
+  header
+
+  section
